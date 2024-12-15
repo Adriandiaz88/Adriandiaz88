@@ -11,15 +11,8 @@ Soy Productor Audiovisual y aspirante a Analista de Datos cuento con 15 años de
 
 ## Tecnología
 
- <img src="./icons/Anaconda-Dark.svg" width="48"> 
- <img src="./icons/Discord.svg" width="48">   
- <img src="./icons/Github-Dark.svg" width="48"> 
- <img src="./icons/MySQL-Dark.svg" width="48">  
- <img src="./icons/Powershell-Dark.svg" width="48">
- <img src="./icons/VisualStudio-Dark.svg" width="48">
- <img src="./icons/VSCode-Dark.svg" width="48">  
- <img src="./icons/Python-Dark.svg" width="48"> 
- 
+[![My Skills](https://skillicons.dev/icons?i=anaconda,discord,github,mysql,powershell,vscode,py,ps,pr,gmail&theme=dark)](https://skillicons.dev)
+  
 ## Experiencia
 
 * **Home Depot:** Coordinador Multimedia (Octubre 2021 - Enero 2023) - [
