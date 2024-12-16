@@ -1,3 +1,12 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Adriandiaz88/Adriandiaz88/blob/main/adrian%20diaz%20banner.png" width="800"/>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/adriandiaz88/)
+  
+</div>
+
+ <div id="header" align="left">
+
 # ¡Hola, soy Eduardo Adrian Díaz! 👋
 
 Soy Productor Audiovisual y aspirante a Analista de Datos cuento con 15 años de experiencia en Producción Audiovisual. Ando aprendiendo y mejorando mis conocimientos en programación para mejorar mi carrera profesional.
