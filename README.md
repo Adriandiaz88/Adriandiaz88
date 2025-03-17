@@ -9,7 +9,7 @@
 
 # ¡Hola, soy Eduardo Adrian Díaz! 👋
 
-Soy Productor Audiovisual y aspirante a Analista de Datos cuento con 15 años de experiencia en Producción Audiovisual. Ando aprendiendo y mejorando mis conocimientos en programación para mejorar mi carrera profesional.
+Profesional multidisciplinario con 15 años de experiencia en Producción Audiovisual y Comunicación Estratégica. Análista de Datos jr. Experto en coordinar proyectos integrales que abarcan comunicación interna, y estrategias digitales (redes sociales y marketing). Combinación única de habilidades creativas y técnicas, con dominio de herramientas audiovisuales y creciente especialización en análisis de datos (SQL, Excel, Power BI) e interpretación de métricas.  
 
 ## Habilidades
 
@@ -24,26 +24,30 @@ Soy Productor Audiovisual y aspirante a Analista de Datos cuento con 15 años de
   
 ## Experiencia
 
-* **Home Depot:** Coordinador Multimedia (Octubre 2021 - Enero 2023) - [
-* Lideré el desarrollo y ejecución de estrategias de contenido multimedia en todas las plataformas digitales,
-* Colaboré con equipos multifuncionales para producir contenido
-  gráfico y de video de alta calidad.
-* Dirigí un equipo de diseñadores gráficos y editores para
-  garantizar la entrega exitosa de proyectos multimedia desde el
-  concepto hasta el producto final.
-* Implementé la mejora de la página web de comunicación interna
-  para optimizar el contenido multimedia.]
+**Analista Datos | Bootcamp | TripleTen**
+06/2024 - 01/2025
+Uso de Python utilizando librerías , análisis estadístico y machine learning, para la limpieza y visualización de datos.
+Dominio de SQL para la extracción, limpieza y transformación de datos de diversas fuentes relacionales y no relacionales.
+Creación de visualizaciones de datos personalizadas y comprensibles para comunicar hallazgos de manera efectiva con Matplotlib, Plotly y Tableau.
+Verificación de APIs: pruebas en VS code y Power BI,  integración de Web Services y validación de respuestas (JSON).  
+ Creación de scripts para optimización de tareas (PowerShell, Git para control de versiones). 
 
-* **Bufet Digital:** Productor Audiovisual (Sept 2017 - Octubre 2021) - [
-*  Desarrollé contenido multimedia, incluidos videos, animaciones y
-presentaciones interactivas.
-*  Colaboré con empresas para conceptualizar y ejecutar proyectos
-multimedia.
-*  Gestioné el proceso de producción, la supervisión de la edición de
-posproducción y la realización de controles de calidad. 
-*  Utilicé software y tecnologías líderes en la industria para mejorar
-proyectos multimedia, como Adobe Creative Suite, Final Cut Pro
-y varias herramientas de desarrollo web.
+
+**Freelancer|Producción Audiovisual para Documentación y realización de eventos**
+02/2023 - Actualidad
+Desarrollo de  contenido multimedia, incluidos videos, para comunicar de manera efectiva los mensajes de la marca.
+Utilización de software y tecnologías para mejorar proyectos multimedia, como Adobe Creative Suite, Final Cut Pro y varias herramientas de desarrollo web.
+Documentación en sitio para proyectos, constructoras y eventos.
+Toma de decisiones a partir de datos por cliente
+
+
+ **Coordinador Multimedia Comunicación Interna | Home Depot México**
+10/2021 - 01/2023
+Lideré el desarrollo y ejecución de estrategias de contenido multimedia en todas las plataformas digitales, lo que resultó en un aumento del 20% en la participación de la audiencia.
+Colaboré con equipos multifuncionales para producir contenido gráfico y de video de alta calidad, cumpliendo constantemente con plazos ajustados y superando las expectativas de los clientes.
+Implementé la mejora de la página web de comunicación interna  para optimizar el contenido multimedia, lo que generó un aumento del 20 % en la facilidad de ingreso para los gerentes a nivel nacional.
+Uso de Métodos básicos y rústicos para analizar datos en Excel, para gestión de proyectos.
+
 ]
 
 ## Contacto
